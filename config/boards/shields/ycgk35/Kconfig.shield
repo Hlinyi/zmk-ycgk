@@ -1,8 +1,8 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_CYGNUS_LEFT
+config SHIELD_YCGK35_LEFT
 	def_bool $(shields_list_contains,ycgk35_left)
 
-config SHIELD_CYGNUS_RIGHT
+config SHIELD_YCGK35_RIGHT
 	def_bool $(shields_list_contains,ycgk35_right)

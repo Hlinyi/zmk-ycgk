@@ -1,7 +1,7 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_CYGNUS_LEFT
+if SHIELD_YCGK35_LEFT
 
 config ZMK_KEYBOARD_NAME
 	default "ycgk35"
@@ -11,7 +11,7 @@ config ZMK_SPLIT_BLE_ROLE_CENTRAL
 
 endif
 
-if SHIELD_CYGNUS_LEFT || SHIELD_CYGNUS_RIGHT
+if SHIELD_YCGK35_LEFT || SHIELD_YCGK35_RIGHT
 
 config ZMK_SPLIT
 	default y
