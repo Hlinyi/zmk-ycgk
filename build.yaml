@@ -14,8 +14,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: ycgk35_left
+    shield: ycgk_left
   - board: nice_nano_v2
-    shield: ycgk35_right
+    shield: ycgk_right
   - board: nice_nano_v2
     shield: settings_reset
