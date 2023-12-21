@@ -1,6 +1,6 @@
 file_format: "1"
-id: ycgk35
-name: ycgk35
+id: ycgk
+name: ycgk
 type: shield
 url:
 requires:
@@ -9,5 +9,5 @@ exposes:
 features:
   - keys
 siblings:
-  - ycgk35_left
-  - ycgk35_right
+  - ycgk_left
+  - ycgk_right

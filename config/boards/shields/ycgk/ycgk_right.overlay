@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "ycgk35.dtsi"
+#include "ycgk.dtsi"
 
 &default_transform {
 	col-offset = <5>;
